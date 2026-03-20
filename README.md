@@ -1,7 +1,7 @@
 # 🦊 Kaze Kitsune — Animation Studio
 
 <p align="center">
-  <🦊 alt="Kaze Kitsune Preview" style="width: 100%; max-width: 1000px; height: auto; border-radius: 10px; box-shadow: 0 10px 30px rgba(0,220,255,0.3);">
+ # 🦊 Kaze Kitsune Preview
 </p>
 
 <p align="center">
