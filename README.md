@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <a href="https://finandolopes.github.io/Gerador_sprites/">
+  <a href="[https://finandolopes.github.io/Gerador_sprites/](https://finandolopes.github.io/Gerador_sprites/)">
     <img src="https://img.shields.io/badge/Acessar_Estúdio-ONLINE-00dcff?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Link do Projeto">
   </a>
 </p>
